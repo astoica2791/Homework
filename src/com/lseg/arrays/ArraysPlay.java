@@ -4,6 +4,7 @@ public class ArraysPlay {
 
     public static void main(String[] args) {
 
+        int incaOVariabile;
         int oVariabilaDeTipInt = 100;
 
         int[] intArrayExplicit = new int[]{20, 35, -15, 7, 55, 1, -22};
