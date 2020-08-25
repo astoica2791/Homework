@@ -13,6 +13,22 @@ public class ARRAYSPLAY {
                 System.out.print(lista[j]+" ");
             }
 
+            ex2();
 
+    }
+
+
+    public static void ex2() {
+        int[] intArray = new int[7];
+
+        intArray[0] = 20;
+        intArray[1] = 35;
+        intArray[2] = -15;
+        intArray[3] = 7;
+
+        for (int i = 0; i <= intArray.length - 1; i++) {
+            System.out.println(intArray[i] + ", ");
+
+        }
     }
 }
